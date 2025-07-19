@@ -48,12 +48,9 @@ This project focuses on building a complete machine learning pipeline that inclu
 
 ## 🖼️ Visual Output
 
-> **You can add snapshots here after uploading them!**
-
-Example markdown once uploaded:
-```markdown
 ### 📊 Confusion Matrix Output
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ### 🌼 Data Visualization
-![Scatter Plot](images/iris_visualization.png)
+![Scatter Plot_01](https://github.com/prabalpkd/Multi-class-classification-using-the-Iris-Dataset/blob/main/Snapshot_01.png)
+![Scatter Plot_01]()

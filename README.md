@@ -49,8 +49,12 @@ This project focuses on building a complete machine learning pipeline that inclu
 ## 🖼️ Visual Output
 
 ### 📊 Confusion Matrix Output
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/prabalpkd/Multi-class-classification-using-the-Iris-Dataset/blob/main/Snapshot_03.png)
 
 ### 🌼 Data Visualization
 ![Scatter Plot_01](https://github.com/prabalpkd/Multi-class-classification-using-the-Iris-Dataset/blob/main/Snapshot_01.png)
-![Scatter Plot_01]()
+![Scatter Plot_02](https://github.com/prabalpkd/Multi-class-classification-using-the-Iris-Dataset/blob/main/Snapshot_02.png)
+
+
+## Source: 
+Dataset - scikit-learn built-in datasets
